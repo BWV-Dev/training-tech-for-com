@@ -17,7 +17,7 @@
 ### 📋 **Khái niệm và định nghĩa**
 
 **CSV (Comma-Separated Values)**:
-- Bản chất: File text thuần túy (plain text)
+- Bản chất: File text thuần túy (plain text).
 - Cấu trúc: Chỉ chứa dữ liệu thô, phân cách bằng dấu phẩy (hoặc dấu chấm phẩy)
 - Không có format: Không lưu thông tin về font, màu sắc, định dạng ngày tháng
 - Encoding: Phụ thuộc vào encoding được sử dụng (UTF-8, UTF-16, Windows-1252...)
